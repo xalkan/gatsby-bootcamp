@@ -6,6 +6,8 @@ author: "xalkan"
 
 I just enrolled in a new bootcamp!
 
+![Grass](./grass.png)
+
 ## Topics Covered
 
 1. Gatbsy
