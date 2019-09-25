@@ -1,0 +1,20 @@
+.posts {
+    list-style-type: none;
+    margin: 0;
+
+}
+
+.post {
+    margin: 1rem 0;
+
+    a {
+        display: block;
+        text-decoration: none;
+        color: #000000;
+        padding: 1rem;
+    }
+
+    a:hover {
+        color:#333333;
+    }
+}
